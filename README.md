@@ -18,3 +18,7 @@ In this project We will Develop a real-time secure chat application from scratch
 -	Tkinter library for UI
 -	Socket library for real-time message exchange
 
+
+## Project Overview:
+
+
