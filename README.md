@@ -22,6 +22,22 @@ In this project We will Develop a real-time secure chat application from scratch
 ## System Overview:
 ![System Overview](https://github.com/AhmedIssa11/Real-Time-Secure-Chat-Application/blob/main/project_overview.png)
 
+## Installation
+Open terminal and type the following command
+```
+git clone https://github.com/AhmedIssa11/Real-Time-Secure-Chat-Application
+```
+
+### Usage
+Start by running the server side script by opening command prompt at project root directory and type
+```
+python server.py
+```
+Once the server is up and running, create a client by running client script, which is done by typing
+```
+python client.py
+```
+
 ## System Output:
 ![GUI](https://github.com/AhmedIssa11/Real-Time-Secure-Chat-Application/blob/main/GUI.png)
 
