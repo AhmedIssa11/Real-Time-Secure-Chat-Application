@@ -7,14 +7,14 @@ In this project We will Develop a real-time secure chat application from scratch
 -	End-to-end Encryption 
 
 ## Our secure chat will provide the following:
-•	Multi-User group chat application
-•	Users can choose between encryption modes:
+-	Multi-User group chat application
+-	Users can choose between encryption modes:
     -	Single key (DES) 
     -	Two keys (RSA, EL GAMAL) 
-•	TTP (Third Trusted Party) which facilitates interactions between two parties who both trust the third party
+-	TTP (Third Trusted Party) which facilitates interactions between two parties who both trust the third party
 
 ## Technology Stack:
-•	Python as the server-side language
-•	Tkinter library for UI
-•	Socket library for real-time message exchange
+-	Python as the server-side language
+-	Tkinter library for UI
+-	Socket library for real-time message exchange
 
