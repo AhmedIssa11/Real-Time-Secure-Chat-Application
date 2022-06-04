@@ -2,9 +2,9 @@
 
 ## Introduction:
 In this project We will Develop a real-time secure chat application from scratch like WhatsApp & Signal with end-to-end encryption. Our project will cover:
-•	Socket Programming
-•	Real-Time System 
-•	End-to-end Encryption 
+-	Socket Programming
+-	Real-Time System 
+-	End-to-end Encryption 
 
 ## Our secure chat will provide the following:
 •	Multi-User group chat application
