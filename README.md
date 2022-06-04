@@ -29,7 +29,7 @@ git clone https://github.com/AhmedIssa11/Real-Time-Secure-Chat-Application
 ```
 
 ### Usage
-Start by running the server side script by opening command prompt at project root directory and type
+Start by running the server side script by opening command prompt at project root directory and type the choose the encryption mode 
 ```
 python server.py
 ```
