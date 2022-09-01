@@ -10,7 +10,7 @@ In this project We will Develop a real-time secure chat application from scratch
 -	Multi-User group chat application
 -	Users can choose between encryption modes:
     -	Single key (DES) 
-    -	Two keys (RSA, EL GAMAL) 
+    -	Two keys (RSA , EL GAMAL) 
 -	TTP (Third Trusted Party) which facilitates interactions between two parties who both trust the third party
 
 ## Technology Stack:
